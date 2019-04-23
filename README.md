@@ -12,12 +12,12 @@ Link: https://www.getinfo.net.br/
 
 Último acesso: 23 de abril de 2019
 
-#### Site IEPTB-SE
-Link: http://www.ieptbse.com.br/
+#### Site Pronto
+Link: http://pronto.med.br/
 
 Último acesso: 23 de abril de 2019
 
-#### Site Pronto
-Link: http://pronto.med.br/
+#### Site IEPTB-SE
+Link: http://www.ieptbse.com.br/
 
 Último acesso: 23 de abril de 2019
